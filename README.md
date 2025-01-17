@@ -1,6 +1,6 @@
 # 🏆 International Football Analysis and Ranking
 
-![Football Visualization](Footballimage.jpg) <!-- Add an engaging header image -->
+![Football Visualization](FootaballImage2.jpeg) <!-- Add an engaging header image -->
 
 ## 📌 Overview
 This project analyzes football team performance using data from Kaggle. It builds an **Elo ranking system** to evaluate national teams and predicts outcomes for major tournaments like the **UEFA Eurocup** and **Copa América**.

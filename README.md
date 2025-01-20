@@ -19,15 +19,13 @@ This project analyzes football team performance using data from Kaggle. It build
 The dataset includes:
 - Match results: Scores, dates, and venues.
 - Team data: Historical performance metrics.
-- Player stats: Individual performance data.
-
 ---
 
 ## ⚙️ Methodology
 1. **Data Preprocessing**: Cleaning and normalizing datasets.
 2. **Exploratory Data Analysis**: Insights into team trends and patterns.
 3. **Elo Rankings**: Assigning scores and ranks to teams.
-4. **Predictive Models**: Poisson regression and other statistical methods.
+4. **Predictive Models**: Poisson Distribution and other statistical methods.
 5. **Simulations**: Predicting match and tournament outcomes.
 
 ---
@@ -59,7 +57,8 @@ The dataset includes:
    WorldResults.ipynb
 
  ## 📈 Sample Visualizations
-  <!-- Add images or links to visualizations -->
+![Result1 Visualization](TopTeamsELO.png)
+![Result2 Visualization](TopTeamsATT.png)
 
  ## 🤝 Contributions
   Contributions are welcome! Fork the repository, create a branch, and open a pull request.
